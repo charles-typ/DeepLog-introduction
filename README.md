@@ -1,4 +1,4 @@
-# DeepLog-instroduction
+# DeepLog-introduction
 DeepLog-Anomaly Detection and Diagnosis from System Logs through Deep Learning
 
 
